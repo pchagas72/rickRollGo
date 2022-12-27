@@ -8,5 +8,3 @@ C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
 
 !!! You can leave empty lines for organization, just be sure that they are really empty
 !!! You also need to define a link that will be open in those browsers
-
-link=https://www.youtube.com/watch?v=dQw4w9WgXcQ
