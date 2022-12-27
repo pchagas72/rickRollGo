@@ -1,10 +1,10 @@
-!!! This is a comment.
-!!! Put the full path to the browser binary in this file, here are a few examples:
+!!! This is a comment.;
+!!! Put the full path to the browser binary in this file, here are a few examples:;
 
-C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
-C:\Program Files\Mozilla Firefox\firefox.exe
-C:\Program Files\Google\Chrome\Application\chrome.exe
-C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe;
+C:\Program Files\Mozilla Firefox\firefox.exe;
+C:\Program Files\Google\Chrome\Application\chrome.exe;
+C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe;
 
-!!! You can leave empty lines for organization, just be sure that they are really empty
-!!! You also need to define a link that will be open in those browsers
+!!! You can leave empty lines for organization, just be sure that they are really empty;
+!!! You also need to define a link that will be open in those browsers;
